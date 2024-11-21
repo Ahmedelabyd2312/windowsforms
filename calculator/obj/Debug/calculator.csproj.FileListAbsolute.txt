@@ -1,0 +1,10 @@
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Sky Hawk\source\repos\YT project\calculator\calculator\obj\Debug\calculator.pdb
