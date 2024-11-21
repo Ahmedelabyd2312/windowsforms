@@ -1,0 +1,10 @@
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\bin\Debug\image slider.exe.config
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\bin\Debug\image slider.exe
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\bin\Debug\image slider.pdb
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image slider.csproj.AssemblyReference.cache
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image_slider.Form1.resources
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image_slider.Properties.Resources.resources
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image slider.csproj.GenerateResource.cache
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image slider.csproj.CoreCompileInputs.cache
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image slider.exe
+C:\Users\Sky Hawk\source\repos\YT project\image slider\image slider\obj\Debug\image slider.pdb
